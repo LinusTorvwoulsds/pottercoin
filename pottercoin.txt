@@ -1,0 +1,23 @@
+Pottercoin (POTB) mining calculation plan to reduce production:
+Pottercoin's original parent currency circulation totaled 27 million 
+pieces, with a total of 663 million mineral pools; the parent currency is 
+a mining machine; it can be permanently mined, and the mines are all 
+excavated for the fastest 37 years.
+Pottercoin's mining power reduction uses a new generation of smart 
+contract mining machines similar to Bitcoin's mining power reduction, 
+with the advantages of no electricity and no mining loss.
+Pottercoin's mining power is based on the mining capacity of the 
+highest mining machine. The mining power is reduced by half every 
+two years. The maximum total output can be excavated in the first 10 
+years of 27 million pieces. After 10 years, it can be dug every 2 years. 
+The maximum total output is 27 million, so the calculation output of 
+the mining machine will be halved or reduced when the mining power 
+is close to the peak (27 million computing power). For example, in the 
+first two years, the highest per million vouchers can be excavated 
+49.8, the second two years, the highest per 10,000 master coin 
+mining machine can dig 24.9, the third two years, the highest per 
+10,000 mothers The mining machine can dig up 12.45, and so on, 
+halving every 2 years; until all the blocks TOKEN are dug out. When 
+the mine calculation power of a node mining machine reaches the 
+super mine calculation power, a 20,000 POTB mining machine can be 
+permanently obtained, and the mine dividend is permanently enjoyed.
